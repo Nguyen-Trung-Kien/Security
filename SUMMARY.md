@@ -7,11 +7,12 @@
 * [Quickstart](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
-## Basics
+## Web Security
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Reconnaissance](web-security/reconnaissance/README.md)
+  * [Large Scope For Big company](web-security/reconnaissance/large-scope-for-big-company.md)
+* [Markdown](web-security/markdown.md)
+* [Images & media](web-security/images-and-media.md)
+* [Interactive blocks](web-security/interactive-blocks.md)
+* [OpenAPI](web-security/openapi.md)
+* [Integrations](web-security/integrations.md)
