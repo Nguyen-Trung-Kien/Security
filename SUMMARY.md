@@ -7,14 +7,6 @@
 * [Quickstart](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
-## Bug Bounty
-
-* [Quickstart](bug-bounty/quickstart.md)
-* [Reconnaissance](bug-bounty/reconnaissance/README.md)
-  * [Medium Scope For domain and subdomain](bug-bounty/reconnaissance/medium-scope-for-domain-and-subdomain.md)
-  * [Large Scope For Big company](bug-bounty/reconnaissance/large-scope-for-big-company.md)
-* [Admin Panel Bypass Authentication](bug-bounty/admin-panel-bypass-authentication.md)
-
 ## Web Security
 
 * [Security Vulnerability](web-security/security-vulnerability/README.md)
@@ -28,9 +20,23 @@
 * [FrameWork](web-security/framework.md)
 * [Services](web-security/services/README.md)
   * [GeoServer](web-security/services/geoserver.md)
-  * [ZooKeeper PenTest](web-security/services/zookeeper-pentest.md)
   * [Phpmyadmin Pentest](web-security/services/phpmyadmin-pentest.md)
-  * [Memcached Pentest](web-security/services/memcached-pentest.md)
+
+## NetWork Pentest
+
+* [Quickstart](network-pentest/quickstart.md)
+* [Port Pentest](network-pentest/port-pentest/README.md)
+  * [Port 389, 636: Ldap Pentest](network-pentest/port-pentest/port-389-636-ldap-pentest.md)
+  * [Port 2181: ZooKeeper PenTest](network-pentest/port-pentest/port-2181-zookeeper-pentest.md)
+  * [Port 11211: Memcached Pentest](network-pentest/port-pentest/port-11211-memcached-pentest.md)
+
+## Bug Bounty
+
+* [Quickstart](bug-bounty/quickstart.md)
+* [Reconnaissance](bug-bounty/reconnaissance/README.md)
+  * [Medium Scope For domain and subdomain](bug-bounty/reconnaissance/medium-scope-for-domain-and-subdomain.md)
+  * [Large Scope For Big company](bug-bounty/reconnaissance/large-scope-for-big-company.md)
+* [Admin Panel Bypass Authentication](bug-bounty/admin-panel-bypass-authentication.md)
 
 ## Research
 
