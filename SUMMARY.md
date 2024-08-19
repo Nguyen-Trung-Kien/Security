@@ -20,6 +20,7 @@
 * [FrameWork](web-security/framework.md)
 * [Services](web-security/services/README.md)
   * [GeoServer](web-security/services/geoserver.md)
+  * [Infoblox Pentest](web-security/services/infoblox-pentest.md)
   * [Grafana Pentest](web-security/services/grafana-pentest.md)
   * [Phpmyadmin Pentest](web-security/services/phpmyadmin-pentest.md)
 
