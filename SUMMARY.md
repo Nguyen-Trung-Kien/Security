@@ -13,6 +13,7 @@
 * [Reconnaissance](bug-bounty/reconnaissance/README.md)
   * [Medium Scope For domain and subdomain](bug-bounty/reconnaissance/medium-scope-for-domain-and-subdomain.md)
   * [Large Scope For Big company](bug-bounty/reconnaissance/large-scope-for-big-company.md)
+* [Admin Panel Bypass Authentication](bug-bounty/admin-panel-bypass-authentication.md)
 
 ## Web Security
 
@@ -22,7 +23,8 @@
   * [No Rate Limit](web-security/security-vulnerability/no-rate-limit.md)
   * [Remote Code Execution (RCE)](web-security/security-vulnerability/remote-code-execution-rce.md)
 * [LLM Pentest](web-security/llm-pentest.md)
-* [CMS](web-security/cms.md)
+* [CMS](web-security/cms/README.md)
+  * [Typo3](web-security/cms/typo3.md)
 * [FrameWork](web-security/framework.md)
 * [Services](web-security/services/README.md)
   * [ZooKeeper PenTest](web-security/services/zookeeper-pentest.md)
