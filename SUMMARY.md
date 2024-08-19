@@ -24,6 +24,9 @@
 * [LLM Pentest](web-security/llm-pentest.md)
 * [CMS](web-security/cms.md)
 * [FrameWork](web-security/framework.md)
+* [Services](web-security/services/README.md)
+  * [ZooKeeper PenTest](web-security/services/zookeeper-pentest.md)
+  * [Phpmyadmin Pentest](web-security/services/phpmyadmin-pentest.md)
 
 ## Research
 
