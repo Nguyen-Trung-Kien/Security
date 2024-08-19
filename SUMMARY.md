@@ -27,6 +27,7 @@
   * [Typo3](web-security/cms/typo3.md)
 * [FrameWork](web-security/framework.md)
 * [Services](web-security/services/README.md)
+  * [GeoServer](web-security/services/geoserver.md)
   * [ZooKeeper PenTest](web-security/services/zookeeper-pentest.md)
   * [Phpmyadmin Pentest](web-security/services/phpmyadmin-pentest.md)
 
