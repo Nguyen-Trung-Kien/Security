@@ -30,6 +30,7 @@
   * [GeoServer](web-security/services/geoserver.md)
   * [ZooKeeper PenTest](web-security/services/zookeeper-pentest.md)
   * [Phpmyadmin Pentest](web-security/services/phpmyadmin-pentest.md)
+  * [Memcached Pentest](web-security/services/memcached-pentest.md)
 
 ## Research
 
