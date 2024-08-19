@@ -27,6 +27,7 @@
 * [Quickstart](network-pentest/quickstart.md)
 * [Port Pentest](network-pentest/port-pentest/README.md)
   * [Port 389, 636: Ldap Pentest](network-pentest/port-pentest/port-389-636-ldap-pentest.md)
+  * [Port 2049: NFS Services](network-pentest/port-pentest/port-2049-nfs-services.md)
   * [Port 2181: ZooKeeper PenTest](network-pentest/port-pentest/port-2181-zookeeper-pentest.md)
   * [Port 11211: Memcached Pentest](network-pentest/port-pentest/port-11211-memcached-pentest.md)
 
@@ -34,6 +35,7 @@
 
 * [Quickstart](bug-bounty/quickstart.md)
 * [Reconnaissance](bug-bounty/reconnaissance/README.md)
+  * [Small Scope (lower than 10)](bug-bounty/reconnaissance/small-scope-lower-than-10.md)
   * [Medium Scope For domain and subdomain](bug-bounty/reconnaissance/medium-scope-for-domain-and-subdomain.md)
   * [Large Scope For Big company](bug-bounty/reconnaissance/large-scope-for-big-company.md)
 * [Admin Panel Bypass Authentication](bug-bounty/admin-panel-bypass-authentication.md)
