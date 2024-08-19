@@ -7,20 +7,25 @@
 * [Quickstart](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
+## Bug Bounty
+
+* [Quickstart](bug-bounty/quickstart.md)
+* [Reconnaissance](bug-bounty/reconnaissance/README.md)
+  * [Medium Scope For domain and subdomain](bug-bounty/reconnaissance/medium-scope-for-domain-and-subdomain.md)
+  * [Large Scope For Big company](bug-bounty/reconnaissance/large-scope-for-big-company.md)
+
 ## Web Security
 
-* [Reconnaissance](web-security/reconnaissance/README.md)
-  * [Medium Scope For domain and subdomain](web-security/reconnaissance/medium-scope-for-domain-and-subdomain.md)
-  * [Large Scope For Big company](web-security/reconnaissance/large-scope-for-big-company.md)
+* [Security Vulnerability](web-security/security-vulnerability/README.md)
+  * [Broken Access Control](web-security/security-vulnerability/broken-access-control.md)
+  * [Host Header Injection](web-security/security-vulnerability/host-header-injection.md)
+  * [No Rate Limit](web-security/security-vulnerability/no-rate-limit.md)
+  * [Remote Code Execution (RCE)](web-security/security-vulnerability/remote-code-execution-rce.md)
 * [LLM Pentest](web-security/llm-pentest.md)
-* [Broken Access Control](web-security/broken-access-control.md)
-* [Host Header Injection](web-security/host-header-injection.md)
-* [No Rate Limit](web-security/no-rate-limit.md)
-* [Remote Code Execution (RCE)](web-security/remote-code-execution-rce.md)
 * [CMS](web-security/cms.md)
-* [Page 1](web-security/page-1.md)
+* [FrameWork](web-security/framework.md)
 
 ## Research
 
-* [Reproduction](research/reproduction.md)
 * [My post](research/my-post.md)
+* [Reproduction](research/reproduction.md)
