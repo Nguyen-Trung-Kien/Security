@@ -58,5 +58,8 @@
 * [Orchestration Security](container-security/orchestration-security.md)
 * [Registry Security](container-security/registry-security.md)
 * [Checklist docker security audit](container-security/checklist-docker-security-audit/README.md)
+  * [Docker privilege escalation](container-security/checklist-docker-security-audit/docker-privilege-escalation.md)
   * [How we use docker always safes!](container-security/checklist-docker-security-audit/how-we-use-docker-always-safes.md)
   * [Docker file docker-compose.yaml - Dockerfile](container-security/checklist-docker-security-audit/docker-file-docker-compose.yaml-dockerfile.md)
+* [Other](container-security/other/README.md)
+  * [List More page manager and share docker Images](container-security/other/list-more-page-manager-and-share-docker-images.md)
