@@ -19,6 +19,7 @@
   * [Typo3](web-security/cms/typo3.md)
 * [FrameWork](web-security/framework.md)
 * [Services](web-security/services/README.md)
+  * [Nginx Proxy Manager](web-security/services/nginx-proxy-manager.md)
   * [GeoServer](web-security/services/geoserver.md)
   * [Infoblox Pentest](web-security/services/infoblox-pentest.md)
   * [Grafana Pentest](web-security/services/grafana-pentest.md)
@@ -57,4 +58,5 @@
 * [Orchestration Security](container-security/orchestration-security.md)
 * [Registry Security](container-security/registry-security.md)
 * [Checklist docker security audit](container-security/checklist-docker-security-audit/README.md)
+  * [How we use docker always safes!](container-security/checklist-docker-security-audit/how-we-use-docker-always-safes.md)
   * [Docker file docker-compose.yaml - Dockerfile](container-security/checklist-docker-security-audit/docker-file-docker-compose.yaml-dockerfile.md)
