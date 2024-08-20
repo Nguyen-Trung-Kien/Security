@@ -1,7 +1,7 @@
 # Registry Security
 
-Thêm chưa biết như nào
+Strict access control measures to prevent unauthorized access to the contents of the container registry.
 
-Compliance and Auditing (Tuân thủ và kiểm toán)&#x20;
+A separate Registry should be set up for the organization, ensuring the security of the registry is not compromised
 
-Incident Response (Phản ứng sự cố)
+Regularly check for updates to new versions of the registry
