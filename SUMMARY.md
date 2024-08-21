@@ -17,6 +17,7 @@
 * [LLM Pentest](web-security/llm-pentest.md)
 * [CMS](web-security/cms/README.md)
   * [Typo3](web-security/cms/typo3.md)
+  * [Bitrix](web-security/cms/bitrix.md)
 * [FrameWork](web-security/framework.md)
 * [Services](web-security/services/README.md)
   * [Plesk](web-security/services/plesk.md)
@@ -30,6 +31,10 @@
   * [Apiato](web-security/services/apiato.md)
   * [Moodle](web-security/services/moodle.md)
   * [Rundeck](web-security/services/rundeck.md)
+  * [Konga](web-security/services/konga.md)
+  * [Mantis Bug Tracker](web-security/services/mantis-bug-tracker.md)
+  * [HOMER+5.0.5](web-security/services/homer+5.0.5.md)
+  * [Airflow](web-security/services/airflow.md)
 
 ## NetWork Pentest
 
