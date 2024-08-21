@@ -29,6 +29,7 @@
   * [RabbitMQ](web-security/services/rabbitmq.md)
   * [Apiato](web-security/services/apiato.md)
   * [Moodle](web-security/services/moodle.md)
+  * [Rundeck](web-security/services/rundeck.md)
 
 ## NetWork Pentest
 
