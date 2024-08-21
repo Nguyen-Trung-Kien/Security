@@ -28,6 +28,7 @@
   * [Redash](web-security/services/redash.md)
   * [RabbitMQ](web-security/services/rabbitmq.md)
   * [Apiato](web-security/services/apiato.md)
+  * [Moodle](web-security/services/moodle.md)
 
 ## NetWork Pentest
 
