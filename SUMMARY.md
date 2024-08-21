@@ -19,11 +19,15 @@
   * [Typo3](web-security/cms/typo3.md)
 * [FrameWork](web-security/framework.md)
 * [Services](web-security/services/README.md)
+  * [Plesk](web-security/services/plesk.md)
   * [Nginx Proxy Manager](web-security/services/nginx-proxy-manager.md)
   * [GeoServer](web-security/services/geoserver.md)
   * [Infoblox Pentest](web-security/services/infoblox-pentest.md)
   * [Grafana Pentest](web-security/services/grafana-pentest.md)
   * [Phpmyadmin Pentest](web-security/services/phpmyadmin-pentest.md)
+  * [Redash](web-security/services/redash.md)
+  * [RabbitMQ](web-security/services/rabbitmq.md)
+  * [Apiato](web-security/services/apiato.md)
 
 ## NetWork Pentest
 
