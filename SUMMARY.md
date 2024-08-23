@@ -18,7 +18,8 @@
 * [CMS](web-security/cms/README.md)
   * [Typo3](web-security/cms/typo3.md)
   * [Bitrix](web-security/cms/bitrix.md)
-* [FrameWork](web-security/framework.md)
+* [FrameWork](web-security/framework/README.md)
+  * [Apache OFBiz](web-security/framework/apache-ofbiz.md)
 * [Services](web-security/services/README.md)
   * [Plesk](web-security/services/plesk.md)
   * [Nginx Proxy Manager](web-security/services/nginx-proxy-manager.md)
@@ -35,6 +36,7 @@
   * [Mantis Bug Tracker](web-security/services/mantis-bug-tracker.md)
   * [HOMER+5.0.5](web-security/services/homer+5.0.5.md)
   * [Airflow](web-security/services/airflow.md)
+  * [Looker](web-security/services/looker.md)
 
 ## NetWork Pentest
 
@@ -53,6 +55,8 @@
   * [Medium Scope For domain and subdomain](bug-bounty/reconnaissance/medium-scope-for-domain-and-subdomain.md)
   * [Large Scope For Big company](bug-bounty/reconnaissance/large-scope-for-big-company.md)
 * [Admin Panel Bypass Authentication](bug-bounty/admin-panel-bypass-authentication.md)
+* [Tips](bug-bounty/tips/README.md)
+  * [Misconfigured](bug-bounty/tips/misconfigured.md)
 
 ## Research
 
