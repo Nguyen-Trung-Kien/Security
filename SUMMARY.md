@@ -21,22 +21,30 @@
 * [FrameWork](web-security/framework/README.md)
   * [Apache OFBiz](web-security/framework/apache-ofbiz.md)
 * [Services](web-security/services/README.md)
-  * [Plesk](web-security/services/plesk.md)
-  * [Nginx Proxy Manager](web-security/services/nginx-proxy-manager.md)
-  * [GeoServer](web-security/services/geoserver.md)
-  * [Infoblox Pentest](web-security/services/infoblox-pentest.md)
+  * [3CX Webclient](web-security/services/3cx-webclient.md)
+  * [Adiscon LogAnalyzer](web-security/services/adiscon-loganalyzer.md)
+  * [Adminer](web-security/services/adminer.md)
+  * [Apiato](web-security/services/apiato.md)
+  * [Airflow](web-security/services/airflow.md)
+  * [Apache Ambari](web-security/services/apache-ambari.md)
+  * [Apache Flink](web-security/services/apache-flink.md)
+  * [Apache Solr](web-security/services/apache-solr.md)
   * [Grafana Pentest](web-security/services/grafana-pentest.md)
+  * [GeoServer](web-security/services/geoserver.md)
+  * [HOMER+5.0.5](web-security/services/homer+5.0.5.md)
+  * [Huginn](web-security/services/huginn.md)
+  * [Infoblox Pentest](web-security/services/infoblox-pentest.md)
+  * [Konga](web-security/services/konga.md)
+  * [Looker](web-security/services/looker.md)
+  * [Mantis Bug Tracker](web-security/services/mantis-bug-tracker.md)
+  * [Moodle](web-security/services/moodle.md)
+  * [Nginx Proxy Manager](web-security/services/nginx-proxy-manager.md)
+  * [Plesk](web-security/services/plesk.md)
   * [Phpmyadmin Pentest](web-security/services/phpmyadmin-pentest.md)
   * [Redash](web-security/services/redash.md)
   * [RabbitMQ](web-security/services/rabbitmq.md)
-  * [Apiato](web-security/services/apiato.md)
-  * [Moodle](web-security/services/moodle.md)
   * [Rundeck](web-security/services/rundeck.md)
-  * [Konga](web-security/services/konga.md)
-  * [Mantis Bug Tracker](web-security/services/mantis-bug-tracker.md)
-  * [HOMER+5.0.5](web-security/services/homer+5.0.5.md)
-  * [Airflow](web-security/services/airflow.md)
-  * [Looker](web-security/services/looker.md)
+  * [SigNoz](web-security/services/signoz.md)
 
 ## NetWork Pentest
 
@@ -47,8 +55,13 @@
   * [Port 2181: ZooKeeper PenTest](network-pentest/port-pentest/port-2181-zookeeper-pentest.md)
   * [Port 11211: Memcached Pentest](network-pentest/port-pentest/port-11211-memcached-pentest.md)
 
+## Checklist
+
+* [Web Pentest Checklist](checklist/web-pentest-checklist.md)
+
 ## Bug Bounty
 
+* [403 Bypass](bug-bounty/403-bypass.md)
 * [Quickstart](bug-bounty/quickstart.md)
 * [Reconnaissance](bug-bounty/reconnaissance/README.md)
   * [Small Scope (lower than 10)](bug-bounty/reconnaissance/small-scope-lower-than-10.md)
