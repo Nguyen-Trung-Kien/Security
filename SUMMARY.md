@@ -7,6 +7,16 @@
 * [Quickstart](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
+## Api Security
+
+* [Quickstart](api-security/quickstart.md)
+* [Apikey Hacks](api-security/publish-your-docs/README.md)
+  * [Alchemy - eth-mainnet - apikey](api-security/publish-your-docs/alchemy-eth-mainnet-apikey.md)
+  * [AppVeyor](api-security/publish-your-docs/appveyor.md)
+  * [Apigee](api-security/publish-your-docs/apigee.md)
+  * [Jenkins Apikey](api-security/publish-your-docs/jenkins-apikey.md)
+  * [Pinata key](api-security/publish-your-docs/pinata-key.md)
+
 ## Web Security
 
 * [Security Vulnerability](web-security/security-vulnerability/README.md)
@@ -34,6 +44,7 @@
   * [HOMER+5.0.5](web-security/services/homer+5.0.5.md)
   * [Huginn](web-security/services/huginn.md)
   * [Infoblox Pentest](web-security/services/infoblox-pentest.md)
+  * [Jfrog](web-security/services/jfrog.md)
   * [Konga](web-security/services/konga.md)
   * [Looker](web-security/services/looker.md)
   * [Mantis Bug Tracker](web-security/services/mantis-bug-tracker.md)
@@ -75,6 +86,11 @@
 
 * [My post](research/my-post.md)
 * [Reproduction](research/reproduction.md)
+
+## CI/CD Security
+
+* [List CI/CD products](ci-cd-security/list-ci-cd-products.md)
+* [Reproduction](ci-cd-security/reproduction.md)
 
 ## Container Security
 
