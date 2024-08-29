@@ -22,6 +22,13 @@ Circle-Token
 
 ## Exploit
 
+### Get user infor
+
+```
+curl -H "Circle-Token: YOUR_CIRCLECI_TOKEN" \
+     "https://circleci.com/api/v1.1/me"
+```
+
 ### Get projects
 
 ```
