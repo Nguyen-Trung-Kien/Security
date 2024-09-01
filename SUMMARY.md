@@ -15,6 +15,7 @@
   * [AppVeyor](api-security/publish-your-docs/appveyor.md)
   * [Apigee](api-security/publish-your-docs/apigee.md)
   * [Argo CD api](api-security/publish-your-docs/argo-cd-api.md)
+  * [Agolia apikey](api-security/publish-your-docs/agolia-apikey.md)
   * [Azure Pipelines](api-security/publish-your-docs/azure-pipelines.md)
   * [Asana](api-security/publish-your-docs/asana.md)
   * [Bitbucket](api-security/publish-your-docs/bitbucket.md)
@@ -52,11 +53,31 @@
   * [Lokalise API](api-security/publish-your-docs/lokalise-api.md)
   * [Pinata key](api-security/publish-your-docs/pinata-key.md)
   * [MailboxValidator API](api-security/publish-your-docs/mailboxvalidator-api.md)
+  * [Micro User Service](api-security/publish-your-docs/micro-user-service.md)
+  * [MojoAuth API](api-security/publish-your-docs/mojoauth-api.md)
+  * [MoonPay API](api-security/publish-your-docs/moonpay-api.md)
+  * [New Relic NerdGraph](api-security/publish-your-docs/new-relic-nerdgraph.md)
+  * [Netlify API](api-security/publish-your-docs/netlify-api.md)
+  * [NPM API](api-security/publish-your-docs/npm-api.md)
+  * [OneLogin API](api-security/publish-your-docs/onelogin-api.md)
+  * [Optimizely API](api-security/publish-your-docs/optimizely-api.md)
+  * [ORB Intelligence](api-security/publish-your-docs/orb-intelligence.md)
+  * [Pagerduty API](api-security/publish-your-docs/pagerduty-api.md)
+  * [Particle Cloud API](api-security/publish-your-docs/particle-cloud-api.md)
+  * [PayPal API](api-security/publish-your-docs/paypal-api.md)
+  * [PivotalTracker](api-security/publish-your-docs/pivotaltracker.md)
+  * [PostMark API](api-security/publish-your-docs/postmark-api.md)
+  * [Quip API](api-security/publish-your-docs/quip-api.md)
+  * [Slack Api](api-security/publish-your-docs/slack-api.md)
   * [Quay](api-security/publish-your-docs/quay.md)
   * [Semaphore](api-security/publish-your-docs/semaphore.md)
   * [SonarQube Api](api-security/publish-your-docs/sonarqube-api.md)
+  * [Spotify Api](api-security/publish-your-docs/spotify-api.md)
+  * [Square API](api-security/publish-your-docs/square-api.md)
+  * [Strava API](api-security/publish-your-docs/strava-api.md)
   * [TeamCity api](api-security/publish-your-docs/teamcity-api.md)
   * [Travis CI](api-security/publish-your-docs/travis-ci.md)
+* [GraphQL](api-security/graphql.md)
 
 ## Web Security
 
@@ -131,7 +152,9 @@
 ## CI/CD Security
 
 * [List CI/CD products](ci-cd-security/list-ci-cd-products.md)
-* [Reproduction](ci-cd-security/reproduction.md)
+* [How to test Ci/Cd?](ci-cd-security/how-to-test-ci-cd/README.md)
+  * [Ci/Cd concept](ci-cd-security/how-to-test-ci-cd/ci-cd-concept.md)
+  * [Ci/Cd security issues & pentest](ci-cd-security/how-to-test-ci-cd/ci-cd-security-issues-and-pentest.md)
 
 ## Container Security
 

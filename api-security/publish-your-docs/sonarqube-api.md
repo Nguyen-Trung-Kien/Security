@@ -14,6 +14,13 @@ description: >-
 
 ## Exploit
 
+
+
+```
+https://sonarcloud.io/api/authentication/validate
+Authorization: Basic {{base64(token + ':')}}
+```
+
 Get projects
 
 ```
