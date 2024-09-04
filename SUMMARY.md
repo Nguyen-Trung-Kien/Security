@@ -118,6 +118,7 @@
   * [RabbitMQ](web-security/services/rabbitmq.md)
   * [Rundeck](web-security/services/rundeck.md)
   * [SigNoz](web-security/services/signoz.md)
+  * [XWiki](web-security/services/xwiki.md)
 
 ## NetWork Pentest
 
