@@ -135,7 +135,7 @@
 ## Bug Bounty
 
 * [403 Bypass](bug-bounty/403-bypass.md)
-* [Quickstart](bug-bounty/quickstart.md)
+* [Tips](bug-bounty/quickstart.md)
 * [Reconnaissance](bug-bounty/reconnaissance/README.md)
   * [Small Scope (lower than 10)](bug-bounty/reconnaissance/small-scope-lower-than-10.md)
   * [Medium Scope For domain and subdomain](bug-bounty/reconnaissance/medium-scope-for-domain-and-subdomain.md)
