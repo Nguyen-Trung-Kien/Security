@@ -101,6 +101,7 @@
   * [Apache Ambari](web-security/services/apache-ambari.md)
   * [Apache Flink](web-security/services/apache-flink.md)
   * [Apache Solr](web-security/services/apache-solr.md)
+  * [Firebase](web-security/services/firebase.md)
   * [Grafana Pentest](web-security/services/grafana-pentest.md)
   * [GeoServer](web-security/services/geoserver.md)
   * [HOMER+5.0.5](web-security/services/homer+5.0.5.md)
