@@ -9,7 +9,8 @@
 
 ## Api Security
 
-* [Quickstart](api-security/quickstart.md)
+* [Tutorials](api-security/quickstart/README.md)
+  * [Recon Api](api-security/quickstart/recon-api.md)
 * [Apikey Hacks](api-security/publish-your-docs/README.md)
   * [Alchemy - eth-mainnet - apikey](api-security/publish-your-docs/alchemy-eth-mainnet-apikey.md)
   * [AppVeyor](api-security/publish-your-docs/appveyor.md)
@@ -157,6 +158,10 @@
 * [How to test Ci/Cd?](ci-cd-security/how-to-test-ci-cd/README.md)
   * [Ci/Cd concept](ci-cd-security/how-to-test-ci-cd/ci-cd-concept.md)
   * [Ci/Cd security issues & pentest](ci-cd-security/how-to-test-ci-cd/ci-cd-security-issues-and-pentest.md)
+
+## Red Team
+
+* [How to hidden](red-team/how-to-hidden.md)
 
 ## Container Security
 
