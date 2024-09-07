@@ -83,6 +83,8 @@
 ## Web Security
 
 * [Security Vulnerability](web-security/security-vulnerability/README.md)
+  * [XXE](web-security/security-vulnerability/xxe/README.md)
+    * [Find XXE open source](web-security/security-vulnerability/xxe/find-xxe-open-source.md)
   * [Broken Access Control](web-security/security-vulnerability/broken-access-control.md)
   * [Host Header Injection](web-security/security-vulnerability/host-header-injection.md)
   * [No Rate Limit](web-security/security-vulnerability/no-rate-limit.md)
