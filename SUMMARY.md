@@ -85,12 +85,13 @@
 ## Web Security
 
 * [Security Vulnerability](web-security/security-vulnerability/README.md)
-  * [XXE](web-security/security-vulnerability/xxe/README.md)
-    * [Find XXE open source](web-security/security-vulnerability/xxe/find-xxe-open-source.md)
   * [Broken Access Control](web-security/security-vulnerability/broken-access-control.md)
+  * [DNS Rebinding](web-security/security-vulnerability/dns-rebinding.md)
   * [Host Header Injection](web-security/security-vulnerability/host-header-injection.md)
   * [No Rate Limit](web-security/security-vulnerability/no-rate-limit.md)
   * [Remote Code Execution (RCE)](web-security/security-vulnerability/remote-code-execution-rce.md)
+  * [XXE](web-security/security-vulnerability/xxe/README.md)
+    * [Find XXE open source](web-security/security-vulnerability/xxe/find-xxe-open-source.md)
 * [LLM Pentest](web-security/llm-pentest.md)
 * [CMS](web-security/cms/README.md)
   * [Typo3](web-security/cms/typo3.md)
