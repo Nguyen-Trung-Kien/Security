@@ -39,7 +39,9 @@
   * [Github apikey](api-security/publish-your-docs/github-apikey.md)
   * [Gitlab apikey](api-security/publish-your-docs/gitlab-apikey.md)
   * [Google Api](api-security/publish-your-docs/google-api/README.md)
+    * [Google Cli Authen](api-security/publish-your-docs/google-api/google-cli-authen.md)
     * [Google Big query](api-security/publish-your-docs/google-api/google-big-query.md)
+    * [Google AI Studio](api-security/publish-your-docs/google-api/google-ai-studio.md)
     * [Google Drive Api](api-security/publish-your-docs/google-api/google-drive-api.md)
   * [Harbor](api-security/publish-your-docs/harbor.md)
   * [Heroku Api](api-security/publish-your-docs/heroku-api.md)
@@ -135,6 +137,13 @@
   * [Port 2049: NFS Services](network-pentest/port-pentest/port-2049-nfs-services.md)
   * [Port 2181: ZooKeeper PenTest](network-pentest/port-pentest/port-2181-zookeeper-pentest.md)
   * [Port 11211: Memcached Pentest](network-pentest/port-pentest/port-11211-memcached-pentest.md)
+
+## Cloud Security
+
+* [Quickstart](cloud-security/quickstart.md)
+* [Google Cloud](cloud-security/google-cloud/README.md)
+  * [Basic Command](cloud-security/google-cloud/basic-command.md)
+* [Page](cloud-security/page.md)
 
 ## Checklist
 
