@@ -110,3 +110,10 @@ Cache-Control: max-age=0
 ```
 https://host/admin/{realms}/console/
 ```
+
+### CVE
+
+```
+https://repology.org/project/keycloak/cves
+https://surecloudcyber.com/blog/pentesting-keycloak-part-2.html
+```
