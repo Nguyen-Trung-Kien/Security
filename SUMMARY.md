@@ -117,6 +117,7 @@
   * [Infoblox Pentest](web-security/services/infoblox-pentest.md)
   * [Jfrog](web-security/services/jfrog.md)
   * [Konga](web-security/services/konga.md)
+  * [Keycloak](web-security/services/keycloak.md)
   * [Looker](web-security/services/looker.md)
   * [Mantis Bug Tracker](web-security/services/mantis-bug-tracker.md)
   * [Moodle](web-security/services/moodle.md)
