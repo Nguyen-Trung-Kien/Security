@@ -178,6 +178,11 @@
 
 * [How to hidden](red-team/how-to-hidden.md)
 
+## Some things about memory and pwn
+
+* [How to heap!](some-things-about-memory-and-pwn/how-to-heap/README.md)
+  * [Memory Areas](some-things-about-memory-and-pwn/how-to-heap/memory-areas.md)
+
 ## Container Security
 
 * [Image Security](container-security/image-security.md)
