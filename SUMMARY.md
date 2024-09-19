@@ -83,6 +83,7 @@
   * [Strava API](api-security/publish-your-docs/strava-api.md)
   * [TeamCity api](api-security/publish-your-docs/teamcity-api.md)
   * [Travis CI](api-security/publish-your-docs/travis-ci.md)
+  * [Vault Apikey](api-security/publish-your-docs/vault-apikey.md)
 * [GraphQL](api-security/graphql.md)
 
 ## Web Security
