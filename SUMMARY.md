@@ -59,6 +59,7 @@
   * [Pinata key](api-security/publish-your-docs/pinata-key.md)
   * [MailboxValidator API](api-security/publish-your-docs/mailboxvalidator-api.md)
   * [Micro User Service](api-security/publish-your-docs/micro-user-service.md)
+  * [Microsoft tenant apikey](api-security/publish-your-docs/microsoft-tenant-apikey.md)
   * [MojoAuth API](api-security/publish-your-docs/mojoauth-api.md)
   * [MoonPay API](api-security/publish-your-docs/moonpay-api.md)
   * [New Relic NerdGraph](api-security/publish-your-docs/new-relic-nerdgraph.md)
