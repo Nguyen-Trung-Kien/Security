@@ -18,6 +18,7 @@
   * [Argo CD api](api-security/publish-your-docs/argo-cd-api.md)
   * [Agolia apikey](api-security/publish-your-docs/agolia-apikey.md)
   * [Azure Pipelines](api-security/publish-your-docs/azure-pipelines.md)
+  * [Azure - APIM](api-security/publish-your-docs/azure-apim.md)
   * [Asana](api-security/publish-your-docs/asana.md)
   * [Bitbucket](api-security/publish-your-docs/bitbucket.md)
   * [Bitly](api-security/publish-your-docs/bitly.md)
