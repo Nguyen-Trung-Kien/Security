@@ -184,6 +184,8 @@
 ## Some things about memory and pwn
 
 * [How to heap!](some-things-about-memory-and-pwn/how-to-heap/README.md)
+  * [Heap Concept](some-things-about-memory-and-pwn/how-to-heap/heap-concept.md)
+  * [Some simple question about heap (vietnamese version)](some-things-about-memory-and-pwn/how-to-heap/some-simple-question-about-heap-vietnamese-version.md)
   * [Memory Areas](some-things-about-memory-and-pwn/how-to-heap/memory-areas.md)
 
 ## Container Security
