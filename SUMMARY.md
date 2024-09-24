@@ -75,6 +75,7 @@
   * [PivotalTracker](api-security/publish-your-docs/pivotaltracker.md)
   * [PostMark API](api-security/publish-your-docs/postmark-api.md)
   * [Quip API](api-security/publish-your-docs/quip-api.md)
+  * [Redash Apikey](api-security/publish-your-docs/redash-apikey.md)
   * [Slack Api](api-security/publish-your-docs/slack-api.md)
   * [Quay](api-security/publish-your-docs/quay.md)
   * [Semaphore](api-security/publish-your-docs/semaphore.md)
@@ -156,6 +157,7 @@
 ## Bug Bounty
 
 * [403 Bypass](bug-bounty/403-bypass.md)
+* [Admin Panel Bypass](bug-bounty/admin-panel-bypass.md)
 * [Tips](bug-bounty/quickstart.md)
 * [Reconnaissance](bug-bounty/reconnaissance/README.md)
   * [Small Scope (lower than 10)](bug-bounty/reconnaissance/small-scope-lower-than-10.md)
