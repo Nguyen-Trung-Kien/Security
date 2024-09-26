@@ -86,6 +86,7 @@
   * [TeamCity api](api-security/publish-your-docs/teamcity-api.md)
   * [Travis CI](api-security/publish-your-docs/travis-ci.md)
   * [Vault Apikey](api-security/publish-your-docs/vault-apikey.md)
+  * [Zabbix](api-security/publish-your-docs/zabbix.md)
 * [GraphQL](api-security/graphql.md)
 
 ## Web Security
