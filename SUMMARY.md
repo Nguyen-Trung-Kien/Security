@@ -15,6 +15,7 @@
   * [Alchemy - eth-mainnet - apikey](api-security/publish-your-docs/alchemy-eth-mainnet-apikey.md)
   * [AppVeyor](api-security/publish-your-docs/appveyor.md)
   * [Apigee](api-security/publish-your-docs/apigee.md)
+  * [Airflow](api-security/publish-your-docs/airflow.md)
   * [Argo CD api](api-security/publish-your-docs/argo-cd-api.md)
   * [Agolia apikey](api-security/publish-your-docs/agolia-apikey.md)
   * [Azure Pipelines](api-security/publish-your-docs/azure-pipelines.md)
