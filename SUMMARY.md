@@ -61,6 +61,7 @@
   * [Lokalise API](api-security/publish-your-docs/lokalise-api.md)
   * [Pinata key](api-security/publish-your-docs/pinata-key.md)
   * [MailboxValidator API](api-security/publish-your-docs/mailboxvalidator-api.md)
+  * [MeaningCloud Api](api-security/publish-your-docs/meaningcloud-api.md)
   * [Micro User Service](api-security/publish-your-docs/micro-user-service.md)
   * [Microsoft tenant apikey](api-security/publish-your-docs/microsoft-tenant-apikey.md)
   * [MojoAuth API](api-security/publish-your-docs/mojoauth-api.md)
