@@ -53,6 +53,7 @@
   * [Intelligence X API](api-security/publish-your-docs/intelligence-x-api.md)
   * [Intercom API](api-security/publish-your-docs/intercom-api.md)
   * [Iterable API](api-security/publish-your-docs/iterable-api.md)
+  * [Jotform](api-security/publish-your-docs/jotform.md)
   * [JumpCloud API](api-security/publish-your-docs/jumpcloud-api.md)
   * [Jenkins Apikey](api-security/publish-your-docs/jenkins-apikey.md)
   * [LaunchDarkly REST API](api-security/publish-your-docs/launchdarkly-rest-api.md)
