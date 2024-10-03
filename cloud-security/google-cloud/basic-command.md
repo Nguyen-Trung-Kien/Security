@@ -10,6 +10,7 @@ List Credentialed Accounts
 
 ```
 gcloud auth list
+gcloud config list
 ```
 
 Choose email active
