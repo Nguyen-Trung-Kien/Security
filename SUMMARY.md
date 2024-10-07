@@ -18,6 +18,7 @@
   * [Airflow](api-security/publish-your-docs/airflow.md)
   * [Argo CD api](api-security/publish-your-docs/argo-cd-api.md)
   * [Agolia apikey](api-security/publish-your-docs/agolia-apikey.md)
+  * [Apify](api-security/publish-your-docs/apify.md)
   * [Atlassian](api-security/publish-your-docs/atlassian.md)
   * [Azure Pipelines](api-security/publish-your-docs/azure-pipelines.md)
   * [Azure - APIM](api-security/publish-your-docs/azure-apim.md)
