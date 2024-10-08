@@ -87,6 +87,7 @@
   * [Salesforce](api-security/publish-your-docs/salesforce.md)
   * [Slack Api](api-security/publish-your-docs/slack-api.md)
   * [Semaphore](api-security/publish-your-docs/semaphore.md)
+  * [Semrush](api-security/publish-your-docs/semrush.md)
   * [SonarQube Api](api-security/publish-your-docs/sonarqube-api.md)
   * [Spotify Api](api-security/publish-your-docs/spotify-api.md)
   * [Square API](api-security/publish-your-docs/square-api.md)
