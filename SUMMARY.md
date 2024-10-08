@@ -84,6 +84,7 @@
   * [Quip API](api-security/publish-your-docs/quip-api.md)
   * [Quay](api-security/publish-your-docs/quay.md)
   * [Redash Apikey](api-security/publish-your-docs/redash-apikey.md)
+  * [Rockset](api-security/publish-your-docs/rockset.md)
   * [Salesforce](api-security/publish-your-docs/salesforce.md)
   * [Slack Api](api-security/publish-your-docs/slack-api.md)
   * [Semaphore](api-security/publish-your-docs/semaphore.md)
