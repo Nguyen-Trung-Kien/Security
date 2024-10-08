@@ -33,6 +33,7 @@
   * [DTB CLoud API](api-security/publish-your-docs/dtb-cloud-api.md)
   * [Debounce Apikey](api-security/publish-your-docs/debounce-apikey.md)
   * [DeviantArt](api-security/publish-your-docs/deviantart.md)
+  * [Dyte API](api-security/publish-your-docs/dyte-api.md)
   * [Drone CI](api-security/publish-your-docs/drone-ci.md)
   * [Drobox](api-security/publish-your-docs/drobox.md)
   * [Facebook API](api-security/publish-your-docs/facebook-api.md)
