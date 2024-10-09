@@ -3,7 +3,7 @@
 Search
 
 ```
-// Some code
+/https?:\/\/[^\/\s]+\.rockset\.com/ AND "ApiKey" AND api
 ```
 
 Exploit
