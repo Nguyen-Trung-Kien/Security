@@ -175,6 +175,7 @@
   * [Small Scope (lower than 10)](bug-bounty/reconnaissance/small-scope-lower-than-10.md)
   * [Medium Scope For domain and subdomain](bug-bounty/reconnaissance/medium-scope-for-domain-and-subdomain.md)
   * [Large Scope For Big company](bug-bounty/reconnaissance/large-scope-for-big-company.md)
+* [Client Site For Bounty](bug-bounty/client-site-for-bounty.md)
 * [Admin Panel Bypass Authentication](bug-bounty/admin-panel-bypass-authentication.md)
 * [Tips](bug-bounty/tips/README.md)
   * [Misconfigured](bug-bounty/tips/misconfigured.md)
