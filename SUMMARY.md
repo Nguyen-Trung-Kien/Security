@@ -25,6 +25,7 @@
   * [Asana](api-security/publish-your-docs/asana.md)
   * [Bitbucket](api-security/publish-your-docs/bitbucket.md)
   * [Bitly](api-security/publish-your-docs/bitly.md)
+  * [Brevo Apikey](api-security/publish-your-docs/brevo-apikey.md)
   * [Binance Api](api-security/publish-your-docs/binance-api.md)
   * [Calendly APi](api-security/publish-your-docs/calendly-api.md)
   * [CircleCI Apikey](api-security/publish-your-docs/circleci-apikey.md)
