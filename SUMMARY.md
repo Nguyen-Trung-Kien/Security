@@ -93,6 +93,7 @@
   * [SonarQube Api](api-security/publish-your-docs/sonarqube-api.md)
   * [Spotify Api](api-security/publish-your-docs/spotify-api.md)
   * [Square API](api-security/publish-your-docs/square-api.md)
+  * [Sentry Token](api-security/publish-your-docs/sentry-token.md)
   * [Strava API](api-security/publish-your-docs/strava-api.md)
   * [TeamCity api](api-security/publish-your-docs/teamcity-api.md)
   * [Travis CI](api-security/publish-your-docs/travis-ci.md)
