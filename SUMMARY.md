@@ -12,6 +12,7 @@
 * [Tutorials](api-security/quickstart/README.md)
   * [Recon Api](api-security/quickstart/recon-api.md)
 * [Apikey Hacks](api-security/publish-your-docs/README.md)
+  * [Link](api-security/publish-your-docs/link.md)
   * [Alchemy - eth-mainnet - apikey](api-security/publish-your-docs/alchemy-eth-mainnet-apikey.md)
   * [AppVeyor](api-security/publish-your-docs/appveyor.md)
   * [Apigee](api-security/publish-your-docs/apigee.md)
