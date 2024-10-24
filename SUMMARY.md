@@ -47,6 +47,7 @@
   * [Front's Core Api](api-security/publish-your-docs/fronts-core-api.md)
   * [Github apikey](api-security/publish-your-docs/github-apikey.md)
   * [Gitlab apikey](api-security/publish-your-docs/gitlab-apikey.md)
+  * [Gitguardian](api-security/publish-your-docs/gitguardian.md)
   * [Google Api](api-security/publish-your-docs/google-api/README.md)
     * [Google Cli Authen](api-security/publish-your-docs/google-api/google-cli-authen.md)
     * [Google Big query](api-security/publish-your-docs/google-api/google-big-query.md)
