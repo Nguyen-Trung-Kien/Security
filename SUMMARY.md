@@ -25,6 +25,7 @@
   * [Azure - APIM](api-security/publish-your-docs/azure-apim.md)
   * [Asana](api-security/publish-your-docs/asana.md)
   * [Bitbucket](api-security/publish-your-docs/bitbucket.md)
+  * [Bitbucket Access Token](api-security/publish-your-docs/bitbucket-access-token.md)
   * [Bitly](api-security/publish-your-docs/bitly.md)
   * [Brevo Apikey](api-security/publish-your-docs/brevo-apikey.md)
   * [Binance Api](api-security/publish-your-docs/binance-api.md)
