@@ -8,6 +8,8 @@ description: Bitbucket Pipelines provides a built-in CI/CD solution within Bitbu
 
 ```
 api.bitbucket.org/2.0 AND Authorization
+/\@bitbucket\.org/ AND https://
+/ATBB/ AND /\@bitbucket\.org/
 ```
 
 ## Exploit
