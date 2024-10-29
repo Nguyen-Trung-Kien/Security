@@ -55,6 +55,7 @@
     * [Google Drive Api](api-security/publish-your-docs/google-api/google-drive-api.md)
   * [Harbor](api-security/publish-your-docs/harbor.md)
   * [Heroku Api](api-security/publish-your-docs/heroku-api.md)
+  * [HelpShift](api-security/publish-your-docs/helpshift.md)
   * [HubSpot API](api-security/publish-your-docs/hubspot-api.md)
   * [Instagram Graph API](api-security/publish-your-docs/instagram-graph-api.md)
   * [Intelligence X API](api-security/publish-your-docs/intelligence-x-api.md)
