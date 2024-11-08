@@ -53,6 +53,7 @@
     * [Google Big query](api-security/publish-your-docs/google-api/google-big-query.md)
     * [Google AI Studio](api-security/publish-your-docs/google-api/google-ai-studio.md)
     * [Google Drive Api](api-security/publish-your-docs/google-api/google-drive-api.md)
+  * [Gocardless api](api-security/publish-your-docs/gocardless-api.md)
   * [Harbor](api-security/publish-your-docs/harbor.md)
   * [Heroku Api](api-security/publish-your-docs/heroku-api.md)
   * [HelpShift](api-security/publish-your-docs/helpshift.md)
