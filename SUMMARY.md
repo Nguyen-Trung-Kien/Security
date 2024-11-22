@@ -115,6 +115,7 @@
   * [Host Header Injection](web-security/security-vulnerability/host-header-injection.md)
   * [No Rate Limit](web-security/security-vulnerability/no-rate-limit.md)
   * [Remote Code Execution (RCE)](web-security/security-vulnerability/remote-code-execution-rce.md)
+  * [Password Reset Vulnerability](web-security/security-vulnerability/password-reset-vulnerability.md)
   * [XXE](web-security/security-vulnerability/xxe/README.md)
     * [Find XXE open source](web-security/security-vulnerability/xxe/find-xxe-open-source.md)
 * [LLM Pentest](web-security/llm-pentest.md)
