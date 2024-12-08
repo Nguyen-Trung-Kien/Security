@@ -82,6 +82,7 @@
   * [OneLogin API](api-security/publish-your-docs/onelogin-api.md)
   * [Optimizely API](api-security/publish-your-docs/optimizely-api.md)
   * [ORB Intelligence](api-security/publish-your-docs/orb-intelligence.md)
+  * [Oktapreview api](api-security/publish-your-docs/oktapreview-api.md)
   * [Pagerduty API](api-security/publish-your-docs/pagerduty-api.md)
   * [Particle Cloud API](api-security/publish-your-docs/particle-cloud-api.md)
   * [PayPal API](api-security/publish-your-docs/paypal-api.md)
