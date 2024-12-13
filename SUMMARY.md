@@ -171,7 +171,7 @@
 * [Quickstart](cloud-security/quickstart.md)
 * [Google Cloud](cloud-security/google-cloud/README.md)
   * [Basic Command](cloud-security/google-cloud/basic-command.md)
-* [Page](cloud-security/page.md)
+* [Amazon Cognito missconfiguration](cloud-security/amazon-cognito-missconfiguration.md)
 
 ## Checklist
 
