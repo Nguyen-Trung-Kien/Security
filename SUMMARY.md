@@ -55,6 +55,7 @@
     * [Google Drive Api](api-security/publish-your-docs/google-api/google-drive-api.md)
   * [Gocardless api](api-security/publish-your-docs/gocardless-api.md)
   * [Harbor](api-security/publish-your-docs/harbor.md)
+  * [Hackerone Api](api-security/publish-your-docs/hackerone-api.md)
   * [Heroku Api](api-security/publish-your-docs/heroku-api.md)
   * [HelpShift](api-security/publish-your-docs/helpshift.md)
   * [HubSpot API](api-security/publish-your-docs/hubspot-api.md)
