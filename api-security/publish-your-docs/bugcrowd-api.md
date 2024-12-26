@@ -1,17 +1,18 @@
-# Hackerone Api
+# Bugcrowd Api
 
-Search
+## Search
 
 ```
-Basic AND Authorization AND api.hackerone.com
+Basic AND Authorization AND api.bugcrowd.com NOT path:*.json
 ```
 
 ## Exploit
 
 ```
-GET /v1/me/programs HTTP/2
-Host: api.hackerone.com
-Authorization: Basic {token-username:apikey}
+GET /organizations HTTP/2
+Host: api.bugcrowd.com
+Authorization: Token {token}
+Bugcrowd-Version: 2024-08-15
 Accept-Encoding: gzip, deflate
 Accept: */*
 Accept-Language: en-US;q=0.9,en;q=0.8
@@ -20,5 +21,3 @@ Cache-Control: max-age=0
 
 
 ```
-
-{% embed url="https://api.hackerone.com/use-cases/" %}
