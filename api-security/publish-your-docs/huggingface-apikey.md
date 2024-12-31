@@ -22,5 +22,3 @@ test api
 ```
 https://enzostvs-hub-api-playground.hf.space/user/0
 ```
-
-{% embed url="https://huggingface.co/spaces/enzostvs/hub-api-playground" %}
