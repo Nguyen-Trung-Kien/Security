@@ -59,6 +59,7 @@
   * [Hackerone Api](api-security/publish-your-docs/hackerone-api.md)
   * [Heroku Api](api-security/publish-your-docs/heroku-api.md)
   * [HelpShift](api-security/publish-your-docs/helpshift.md)
+  * [Huggingface Apikey](api-security/publish-your-docs/huggingface-apikey.md)
   * [HubSpot API](api-security/publish-your-docs/hubspot-api.md)
   * [Instagram Graph API](api-security/publish-your-docs/instagram-graph-api.md)
   * [Intelligence X API](api-security/publish-your-docs/intelligence-x-api.md)
