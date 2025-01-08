@@ -122,6 +122,7 @@
   * [No Rate Limit](web-security/security-vulnerability/no-rate-limit.md)
   * [Remote Code Execution (RCE)](web-security/security-vulnerability/remote-code-execution-rce.md)
   * [Password Reset Vulnerability](web-security/security-vulnerability/password-reset-vulnerability-1.md)
+  * [Support Portal And Email Issue](web-security/security-vulnerability/support-portal-and-email-issue.md)
   * [XXE](web-security/security-vulnerability/xxe/README.md)
     * [Find XXE open source](web-security/security-vulnerability/xxe/find-xxe-open-source.md)
 * [LLM Pentest](web-security/llm-pentest.md)
