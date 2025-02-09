@@ -97,6 +97,7 @@
   * [Rockset](api-security/publish-your-docs/rockset.md)
   * [Uptime Kuma](api-security/publish-your-docs/uptime-kuma.md)
   * [Salesforce](api-security/publish-your-docs/salesforce.md)
+  * [Shopify](api-security/publish-your-docs/shopify.md)
   * [Slack Api](api-security/publish-your-docs/slack-api.md)
   * [Semaphore](api-security/publish-your-docs/semaphore.md)
   * [Semrush](api-security/publish-your-docs/semrush.md)

