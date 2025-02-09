@@ -161,6 +161,7 @@
   * [Rundeck](web-security/services/rundeck.md)
   * [SigNoz](web-security/services/signoz.md)
   * [XWiki](web-security/services/xwiki.md)
+  * [Zoom](web-security/services/zoom.md)
 
 ## NetWork Pentest
 
