@@ -161,6 +161,7 @@
   * [RabbitMQ](web-security/services/rabbitmq.md)
   * [Rundeck](web-security/services/rundeck.md)
   * [SigNoz](web-security/services/signoz.md)
+  * [Subversion (SVN)](web-security/services/subversion-svn.md)
   * [XWiki](web-security/services/xwiki.md)
   * [Zoom](web-security/services/zoom.md)
 
