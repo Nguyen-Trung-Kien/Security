@@ -93,6 +93,27 @@ because of that session have  time to out, we should config in
 ~/.aws/credentials
 
 Manual add line aws_session_token is SessionToken
+
+Or use this python script
+
+import boto3
+
+region='region_here'
+identity_pool='identity_Pool_Id_here'
+
+client = boto3.client('cognito-identity',region_name=region)
+_id = client.get_id(IdentityPoolId=identity_pool)
+_id = _id['IdentityId']
+
+credentials = client.get_credentials_for_identity(IdentityId=_id)
+access_key = credentials['Credentials']['AccessKeyId']
+secret_key = credentials['Credentials']['SecretKey' ]
+session_token = credentials['Credentials']['SessionToken']
+identity_id = credentials['IdentityId']
+print("Access Key: " + access_key)
+print("Secret Key: " + secret_key)
+print("Session Token: " + session_token)
+print("Identity Id: " + identity_id)
 ```
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
