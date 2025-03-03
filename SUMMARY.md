@@ -165,6 +165,11 @@
   * [XWiki](web-security/services/xwiki.md)
   * [Zoom](web-security/services/zoom.md)
 
+## Desktop Security
+
+* [FrameWork](desktop-security/publish-your-docs/README.md)
+  * [Electron Framework](desktop-security/publish-your-docs/electron-framework.md)
+
 ## NetWork Pentest
 
 * [Quickstart](network-pentest/quickstart.md)
