@@ -177,6 +177,7 @@
   * [Port 389, 636: Ldap Pentest](network-pentest/port-pentest/port-389-636-ldap-pentest.md)
   * [Port 2049: NFS Services](network-pentest/port-pentest/port-2049-nfs-services.md)
   * [Port 2181: ZooKeeper PenTest](network-pentest/port-pentest/port-2181-zookeeper-pentest.md)
+  * [Port 4222 : Nats](network-pentest/port-pentest/port-4222-nats.md)
   * [Port 11211: Memcached Pentest](network-pentest/port-pentest/port-11211-memcached-pentest.md)
 
 ## Cloud Security
