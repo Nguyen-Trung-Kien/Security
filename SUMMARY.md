@@ -64,6 +64,7 @@
   * [Instagram Graph API](api-security/publish-your-docs/instagram-graph-api.md)
   * [Intelligence X API](api-security/publish-your-docs/intelligence-x-api.md)
   * [Intercom API](api-security/publish-your-docs/intercom-api.md)
+  * [influx API](api-security/publish-your-docs/influx-api.md)
   * [Iterable API](api-security/publish-your-docs/iterable-api.md)
   * [Jotform](api-security/publish-your-docs/jotform.md)
   * [JumpCloud API](api-security/publish-your-docs/jumpcloud-api.md)
