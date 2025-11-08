@@ -89,6 +89,7 @@
   * [Oktapreview api](api-security/publish-your-docs/oktapreview-api.md)
   * [Pagerduty API](api-security/publish-your-docs/pagerduty-api.md)
   * [Particle Cloud API](api-security/publish-your-docs/particle-cloud-api.md)
+  * [Particle Network](api-security/publish-your-docs/particle-network.md)
   * [PayPal API](api-security/publish-your-docs/paypal-api.md)
   * [PivotalTracker](api-security/publish-your-docs/pivotaltracker.md)
   * [PostMark API](api-security/publish-your-docs/postmark-api.md)
