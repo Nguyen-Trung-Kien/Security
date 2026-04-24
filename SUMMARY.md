@@ -33,6 +33,7 @@
   * [Calendly APi](api-security/publish-your-docs/calendly-api.md)
   * [CircleCI Apikey](api-security/publish-your-docs/circleci-apikey.md)
   * [Clearbit Api](api-security/publish-your-docs/clearbit-api.md)
+  * [CloudFlare APi key](api-security/publish-your-docs/cloudflare-api-key.md)
   * [CoinApi](api-security/publish-your-docs/coinapi.md)
   * [DTB CLoud API](api-security/publish-your-docs/dtb-cloud-api.md)
   * [Debounce Apikey](api-security/publish-your-docs/debounce-apikey.md)
