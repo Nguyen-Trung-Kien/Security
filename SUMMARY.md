@@ -175,6 +175,10 @@
 * [FrameWork](desktop-security/publish-your-docs/README.md)
   * [Electron Framework](desktop-security/publish-your-docs/electron-framework.md)
 
+## MCP SECURITY
+
+* [How to test](mcp-security/publish-your-docs.md)
+
 ## NetWork Pentest
 
 * [Quickstart](network-pentest/quickstart.md)
